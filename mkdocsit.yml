@@ -1,0 +1,8 @@
+site_name: demodemo
+site_description: sadsadasd
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
